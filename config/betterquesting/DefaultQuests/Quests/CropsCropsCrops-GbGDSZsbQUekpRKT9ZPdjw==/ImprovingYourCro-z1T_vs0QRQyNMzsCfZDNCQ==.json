@@ -1,0 +1,37 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3386790291524794961,
+      "questIDLow:4": -5427043695285873838
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "A key part of Crops NH is improving the statistics of your crops. Each stat is important and has a number of benefits...\n\n\nGrowth:\n\n\nGain:\n\n\nResistance:\n- A resistance of 10 will guarantee a seed drop with a spade\r. 20 and 30 will drop 2 or 3 seeds, respectively. A resistance of 31 will guarantee a seed drop without a spade.\r\n\n- If the Growth stat is greater than 23, resistance will help prevent weeds from spreading. \rA resistance of 31 will stop the crop from spreading weeds entirely.\n",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:trap.punji"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Improving Your Crops",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3506897014865509108,
+  "questIDLow:4": -8272203208666854135,
+  "rewards:9": {},
+  "tasks:9": {}
+}
